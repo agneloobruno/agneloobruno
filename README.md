@@ -1,10 +1,8 @@
-# Olá, eu sou [Seu Nome]
+# Olá, eu sou o Bruno
 
 ## Sobre Mim
 
 Sou um entusiasta da tecnologia, desenvolvedor de software e amante de código aberto. Meu foco principal é em trabalhar com IA, e gosto de explorar novas tecnologias para desenvolver soluções criativas e eficientes.
-
-![Imagem de Perfil](imagem-de-perfil.png)
 
 - 🌱 Atualmente estou aprendendo JavaScript, Linguagem C, Linguagem R.
 - 💬 Pergunte-me sobre meus estudos.
