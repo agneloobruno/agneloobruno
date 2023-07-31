@@ -8,9 +8,9 @@ Sou um entusiasta da tecnologia, desenvolvedor de software e amante de código a
 - 💬 Pergunte-me sobre meus estudos.
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=agnelo&show_icons=true&theme=ocean_dark" alt=""></img>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=agnelo&show_icons=true&theme=ocean_dark" alt=""></img>
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agneloobruno&theme=ocean_dark&layout=compact" alt=""></img>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agneloobruno&theme=ocean_dark&layout=compact" alt=""></img>
 </div>
 
 ## Linguagens que eu estudo/estudei:
