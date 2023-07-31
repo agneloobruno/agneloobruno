@@ -7,6 +7,12 @@ Sou um entusiasta da tecnologia, desenvolvedor de software e amante de código a
 - 🌱 Atualmente estou aprendendo JavaScript, Linguagem C, Linguagem R.
 - 💬 Pergunte-me sobre meus estudos.
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=agnelo&show_icons=true&theme=ocean_dark" alt=""></img>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agneloobruno&theme=ocean_dark&layout=compact" alt=""></img>
+</div>
+
 ## Linguagens que eu estudo/estudei:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
