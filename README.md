@@ -1,8 +1,13 @@
-# Hello there. 
-## Oi, eu sou o Bruno e estou aqui buscando registrar minha evolução nos estudos em diferentes tecnologias! Espero que gostem! 
+# Olá, eu sou [Seu Nome]
 
-### Estou aberto a orientações em todos os meus projetos, desde já, grato pela sua atenção!🔍
-🚀 
+## Sobre Mim
+
+Sou um entusiasta da tecnologia, desenvolvedor de software e amante de código aberto. Meu foco principal é em trabalhar com IA, e gosto de explorar novas tecnologias para desenvolver soluções criativas e eficientes.
+
+![Imagem de Perfil](imagem-de-perfil.png)
+
+- 🌱 Atualmente estou aprendendo JavaScript, Linguagem C, Linguagem R.
+- 💬 Pergunte-me sobre meus estudos.
 
 ## Linguagens que eu estudo/estudei:
 <div style="display: inline_block"><br>
