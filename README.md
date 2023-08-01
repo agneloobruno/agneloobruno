@@ -4,7 +4,7 @@
 
 Sou um entusiasta da tecnologia, desenvolvedor de software e amante de código aberto. Meu foco principal é em trabalhar com IA, e gosto de explorar novas tecnologias para desenvolver soluções criativas e eficientes.
 
-- 🌱 Atualmente estou aprendendo JavaScript, Linguagem C, Linguagem R.
+- 🌱 Atualmente estou aprendendo JavaScript, Linguagem C, Linguagem R e Python.
 - 💬 Pergunte-me sobre meus estudos.
 
 <div>
