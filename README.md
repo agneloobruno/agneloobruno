@@ -8,7 +8,7 @@ Sou um entusiasta da tecnologia, desenvolvedor de software e amante de código a
 - 💬 Pergunte-me sobre meus estudos.
 
 <div>
-  <img height=200 align-itens="center" src="https://github-readme-stats.vercel.app/api?username=agnelo&show_icons=true&theme=ocean_dark" alt=""></img>
+  <img height=200 align-itens="center" src="https://github-readme-stats.vercel.app/api?username=agneloobruno&show_icons=true&theme=ocean_dark" alt=""></img>
   
   <img height=200 align-itens="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agneloobruno&theme=ocean_dark&layout=compact" alt=""></img>
 </div>
