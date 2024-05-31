@@ -1,17 +1,23 @@
-# Olá, eu sou o Bruno
+# Olá, eu sou Bruno 👋
 
-## Sobre Mim
+### 👨‍💻 Sobre Mim
+- 🔭 Atualmente estou trabalhando como estagiário na Gerência de Central de Serviços(GCES) na MTI - Empresa Mato-grossense de Tecnologia da Informação.
+- 🌱 Atualmente estou aprendendo Python.
+- 👯 Estou procurando colaborar em Projetos de Desenvolvimento Web Full-Stack.
+- 🤔 Estou procurando ajuda com qual carreira seguir dentro da área.
+- 📫 Como me encontrar: brunoagnelo.almeida@outlook.com
 
-Sou um entusiasta da tecnologia, desenvolvedor de software e amante de código aberto. Meu foco principal é em trabalhar com IA, e gosto de explorar novas tecnologias para desenvolver soluções criativas e eficientes.
-
-- 🌱 Atualmente estou aprendendo JavaScript, Linguagem C, Linguagem R e Python.
-- 💬 Pergunte-me sobre meus estudos.
-
+### 📊 GitHub Stats
 <div>
   <img height=200 align-itens="center" src="https://github-readme-stats.vercel.app/api?username=agneloobruno&show_icons=true&theme=ocean_dark" alt=""></img>
   
   <img height=200 align-itens="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agneloobruno&theme=ocean_dark&layout=compact" alt=""></img>
 </div>
+
+### 📫 Conecte-se Comigo
+- [LinkedIn]([link](https://www.linkedin.com/in/agneloobruno/))
+- [Twitter]([link](https://x.com/agneloobruno))
+
 
 ## Linguagens que eu estudo/estudei:
 <div style="display: inline_block"><br>
